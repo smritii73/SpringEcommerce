@@ -12,4 +12,5 @@ public class FakeStoreProductResponseDTO{
 	private ProductDTO product;
 	private String message;
 	private String status;
+
 }
